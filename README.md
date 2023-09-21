@@ -1,5 +1,7 @@
 # CSK_Module_[ModuleName]
 
+## Hi this is some new input here!
+
 Module / Application to provide [...] functionality.
 
 *If available, please also add a screenshot/gif of the UI of the module here placed within /docu/media/ (see code)*
